@@ -1,0 +1,2 @@
+Here is the minimal configuration set up required at Splunk standalone Universal Forwarder to integrate with Indexer to forward the data.
+Post installation of Splunk UF make the below changes in the path by creating an app and place the configuration files, <<SPLUNK_HOME>>/etc/apps/<<App>>/local
